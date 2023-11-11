@@ -108,8 +108,8 @@ analytics:
 author:
   name             : "ScrapNews2U"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "ScrapNews2U"
-  location         : "Somewhere"
+  bio              : "All News 2U"
+  location         : "Earth"
   email            :
   links:
     - label: "Email"
