@@ -281,4 +281,4 @@ defaults:
       related: true
       show_date: true
 
-date_format: "%B %-d, %Y"
+date_format: "%B %d, %Y"
