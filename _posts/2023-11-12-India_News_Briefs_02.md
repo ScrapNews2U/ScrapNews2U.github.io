@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "India News Top 5 (Nov 12,2023 4pm)"
+title: "India News Top 5 (Nov 12, 2023 4pm)"
 summary: "Summary of the latest India News"
 categories: "India_News_Briefs"
 tags: [Uttarakhand, Rescue Operation, Uttarkashi District, PM Modi, Diwali, Himachal Pradesh, Netherlands, Medieval history, US embassy, Dance]
