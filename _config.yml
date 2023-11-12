@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "ScrapNews2U"
-  avatar           : "/assets/ScrapNews2U-Logo-1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/ScrapNews2U-Logo-1.webp" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "All News 2U"
   location         : # "Earth"
   email            :
