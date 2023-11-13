@@ -1,8 +1,8 @@
 ---
 layout: single
-title: "India News Top 5 [Briefs] - Air Quality, Uttarkashi tunnel collapse"
+title: "India News Top 5 [Headline] - Air Quality, Uttarkashi tunnel collapse"
 summary: "Summary of the latest India News"
-categories: "India_News_Briefs"
+categories: "India_News_Headline"
 tags: [Ai, Uttarkashi tunnel, Rescue operation, Israel, Hamas, Gaza, Rahmanullah Gurbaz,  Ahmedabad]
 toc: ture
 toc_sticky: true

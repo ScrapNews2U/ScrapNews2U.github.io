@@ -1,8 +1,8 @@
 ---
 layout: single
-title: "India News Top 5 [Briefs] - PM Modi, Diwali"
+title: "India News Top 5 [Headline] - PM Modi, Diwali"
 summary: "Summary of the latest India News"
-categories: "India_News_Briefs"
+categories: "India_News_Headline"
 tags: [Madiga community, Kamal Nath, Congress, Shivraj Singh Chouhan, Telangana, India-Israel relations, Palestine, BJP, Diwali, Ayodhya, Yogi Adityanath]
 toc: ture
 toc_sticky: true
