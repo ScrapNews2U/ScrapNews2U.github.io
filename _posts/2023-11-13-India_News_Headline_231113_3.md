@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "India News Top 5 [Headline] - Lok Sabha, Inflation"
-summary: "Summary of the latest India News"
 categories: "India_News_Headline"
 tags: [Mahua Moitra, Lok Sabha, TMC, Naomi Biden, Rishi Sunak, Suella Braverman, Inflation]
 toc: ture

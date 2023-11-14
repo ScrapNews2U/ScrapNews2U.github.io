@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "India News Top 5 [Headline] - Cricket World Cup 2023, Crackers"
-summary: "Summary of the latest India News"
 categories: "India_News_Headline"
 tags: [Cricket, World Cup, Kamal Nath, Madhya Pradesh, Congress, Rishi Sunak, Graduate, Crackers]
 toc: ture

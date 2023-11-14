@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "India News Top 5 [Headline] - Uttarkashi, Diwali"
-summary: "Summary of the latest India News"
 categories: "India_News_Headline"
 tags: [Uttarakhand, Rescue, Uttarkashi, PM Modi, Diwali, Himachal Pradesh, Netherlands, Medieval, US embassy, Dance]
 toc: ture

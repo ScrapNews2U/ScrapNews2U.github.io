@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "India News Top 5 [Headline] - PM2.5 Delhi, COP28, BJP"
-summary: "Summary of the latest India News"
 categories: "India_News_Headline"
 tags: [Delhi, Air Quality, Rishi Sunak, Sultan Al Jaber, G20, COP28, Akhilesh Yadav, Rahul Gandhi, BJP, Yediyurappa]
 toc: ture

@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "World News Top 5 [Headline] - Pakistan, Israel, Deepfake, UK election"
-summary: "Summary of the latest World News"
 categories: "World_News_Headline"
 tags: [Pakistan, Ukraine, Gaza, Israel, Hamas, AI, Deepfake, Cybersecurity, Angelina Jolie, Pakistan, Afghan, Refugees, North Korea, Russia]
 toc: ture

@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "India News Top 5 [Headline] - BJP, Deepfake"
-summary: "Summary of the laHeadlinetest India News"
 categories: "India_News_Headline"
 tags: [Rajasthan, Assembly Elections, Chief Minister, Delhi, Air Quality, Impact, Navy, Rashmika Mandanna, AI, Amitabh Bachchan]
 toc: ture
