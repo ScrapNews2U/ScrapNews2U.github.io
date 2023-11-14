@@ -21,35 +21,35 @@ table td:nth-of-type(1) {
 }
 </style>
 
-# In Sardarpura bastion, Rajasthan CM Gehlot’s clout overrides BJP’s charge
+## In Sardarpura bastion, Rajasthan CM Gehlot’s clout overrides BJP’s charge
 
 Summary | 
 :---:|
 ![](https://cdn.pixabay.com/photo/2019/02/14/09/11/architecture-3996181_1280.jpg) |
 Chief minister Ashok Gehlot is aiming for a sixth term as legislator in the upcoming assembly elections in Rajasthan. In the Sardarpura constituency, Gehlot's influence is clear as he has been the MLA five times and has won with increasing margins in each election. People in Sardarpura vote for the chief minister rather than their legislators. There is appreciation for Gehlot's schemes and development projects in Jodhpur, but the BJP is confident in putting up a serious challenge with their candidate Mahendra Singh Rathore. Rathore claims that the Gehlot government has failed to fulfill their promises and has engaged in corruption. Overall, the elections in Sardarpura will be a contest between Gehlot's clout and the BJP's challenge. |
 
-# Air may get worse on Diwali day in Delhi: CPCB
+## Air may get worse on Diwali day in Delhi: CPCB
 
 Summary | 
 :---:|
 ![](https://cdn.pixabay.com/photo/2017/01/16/13/59/fog-1984057_1280.jpg) |
 The air quality in Delhi improved for the second consecutive day, but it is expected to worsen again on Diwali. The forecast suggests that the air quality index (AQI) will reach "very poor" on Sunday and fall to "severe" on November 13. The capital recently experienced its longest and most severe period of air pollution, with an AQI above 390 for eight consecutive days. Measures to control pollution will remain in place until a review on Monday. Experts anticipate an increase in respiratory illnesses post-Diwali and hospitals have prepared "pollution clinics" to handle the surge. |
 
-# Kanhaiya Lal Murder: Hate Crime Sparks Political Fallouts in Udaipur
+## Kanhaiya Lal Murder: Hate Crime Sparks Political Fallouts in Udaipur
 
 Summary | 
 :---:|
 ![](https://cdn.pixabay.com/photo/2018/02/21/10/43/hanging-3170017_1280.jpg) |
 The brutal murder of Kanhaiya Lal Sahu, allegedly for supporting a BJP leader, has become a focal point in the upcoming elections in Udaipur. Yash Sahu, Kanhaiya Lal's son, has vowed not to cut his hair or wear shoes until the perpetrators are hanged. The killing, which was captured on camera, was claimed by two men angered by Sahu's alleged support of BJP leader Nupur Sharma. The incident has deepened societal divisions and become a key political plank. The BJP blames the Congress-led state government for failing to control terrorism, while the Congress claims the attackers were BJP workers. Tags: Kanhaiya Lal, murder, hate crime |
 
-# Navy to Introduce Ergonomic Workwear for Women on Warships, Standardize Uniforms
+## Navy to Introduce Ergonomic Workwear for Women on Warships, Standardize Uniforms
 
 Summary | 
 :---:|
 ![](https://cdn.pixabay.com/photo/2013/07/30/15/07/submarine-168884_1280.jpg) |
 The Indian Navy plans to introduce ergonomic overalls for women serving on warships to provide more comfort and address their physiological needs. This move comes as women are being inducted into the personnel below officer rank (PBOR) cadre for the first time, with their numbers expected to increase. The navy will also standardize uniforms for all officers and sailors. The new fire-retardant overalls aim to make women's work environment more comfortable and functional. This effort is part of the navy's goal to create an equal workplace for women. The navy is also redesignating ranks to make them gender neutral. |
 
-# Bollywood actors add clauses in contracts to protect against deepfake threat
+## Bollywood actors add clauses in contracts to protect against deepfake threat
 
 Summary | 
 :---:|
