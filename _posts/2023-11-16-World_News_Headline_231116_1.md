@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "World News Top 5 [Headline] - King Charles 75th birthday, Mucinex, Hamas Hostages"
+title: "World News Top 5 [Headline] - Israel Deepens Gaza Hospital Searches, Brooklyn Mom Announces Her Own Death"
 categories: "World_News_Headline"
 tags: [Israel, Hamas, Joe Biden, Xi Jinping, Elon Musk, Brooklyn Mom, Cancer]
 toc: ture
