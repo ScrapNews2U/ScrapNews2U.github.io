@@ -25,10 +25,6 @@ layout: archive
   {% endfor %}
 </ul>
 
-category[2] = categorytemp
-category[2] = category[3]
-category[3] = categorytemp
-
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 {% for i in (1..categories_max) reversed %}
   {% for category in site.categories %}
