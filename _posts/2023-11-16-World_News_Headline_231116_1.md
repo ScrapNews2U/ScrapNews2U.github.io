@@ -21,18 +21,16 @@ table td:nth-of-type(1) {
 </style>
 
 ## Israel Deepens Gaza Hospital Searches, Biden Backs Raid
-
 Summary | 
 :---:|
 ![](/assets/images/2023-11-16-World_News_Headline_231116_1-1.webp) |
-Israel has escalated its searches at Gaza hospitals, alleging the presence of Hamas militants. The move has been condemned by the United Nations and Arab countries, increasing international pressure on Israel. U.S. President Joe Biden defended the operation, calling it a "war crime." The ar: Netanyahu Slams Turkey's 'Terrorist State' Remark; UNSC Backs Call for Gaza Truce |
-
-Summary | Israel-Hamas war has caused thousands of casualties, leading to criticism of Prime Minister Benjamin Netanyahu's handling of the situation. |
+Israel has escalated its searches at Gaza hospitals, alleging the presence of Hamas militants. The move has been condemned by the United Nations and Arab countries, increasing international pressure on Israel. U.S. President Joe Biden defended the operation, calling it a "war crime." The Israel-Hamas war has caused thousands of casualties, leading to criticism of Prime Minister Benjamin Netanyahu's handling of the situation. |
 
 ## Netanyahu Slams Turkey's 'Terrorist State' Remark; UNSC Backs Call for Gaza Truce
+Summary | 
 :---:|
 ![](/assets/images/2023-11-16-World_News_Headline_231116_1-2.webp) |
-Israeli Prime Minister Benjamin Netanyahu criticized Turkish President Recep Tayyip Erdogan, calling Israel a "terrorist state" and accusing him of supporting Hamas. The ongoing war between Israel and Hamas has resulted in over 11,000 deaths in Gaza, including more than 4,000 children. The UN Security Council (UNSC) approved a resolution calling for humanitarian pauses in Gaza, while the Israeli military claimed to have found evidence of Hamas using hospitals for terrorist purposes. US President Joe Biden expressed the need for a two-state solution and urged caution around Gaza's hospitals. Diplomatic missions are expanding to raise awareness of Israeli hostages held by Hamas.  |
+Israeli Prime Minister Benjamin Netanyahu criticized Turkish President Recep Tayyip Erdogan, calling Israel a "terrorist state" and accusing him of supporting Hamas. The ongoing war between Israel and Hamas has resulted in over 11,000 deaths in Gaza, including more than 4,000 children. The UN Security Council (UNSC) approved a resolution calling for humanitarian pauses in Gaza, while the Israeli military claimed to have found evidence of Hamas using hospitals for terrorist purposes. US President Joe Biden expressed the need for a two-state solution and urged caution around Gaza's hospitals. Diplomatic missions are expanding to raise awareness of Israeli hostages held by Hamas. |
 
 ## Joe Biden Calls Xi a 'Dictator' Hours After 'Constructive' Meeting; Agree to 'Pick Up the Phone and Call One Another'
 
