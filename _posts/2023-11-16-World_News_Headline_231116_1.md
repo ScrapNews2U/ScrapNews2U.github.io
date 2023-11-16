@@ -25,7 +25,7 @@ table td:nth-of-type(1) {
 Summary | 
 :---:|
 ![](/assets/images/2023-11-16-World_News_Headline_231116_1-1.webp) |
-Israel has escalated its searches at Gaza hospitals, alleging the presence of Hamas militants. The move has been condemned by the United Nations and Arab countries, increasing international pressure on Israel. U.S. President Joe Biden defended the operation, calling it a "war crime." The ar: Netanyahu Slams Turkey's 'Terrorist State' Remark; UNSC Backs Call for Gaza Truce
+Israel has escalated its searches at Gaza hospitals, alleging the presence of Hamas militants. The move has been condemned by the United Nations and Arab countries, increasing international pressure on Israel. U.S. President Joe Biden defended the operation, calling it a "war crime." The ar: Netanyahu Slams Turkey's 'Terrorist State' Remark; UNSC Backs Call for Gaza Truce |
 
 Summary | Israel-Hamas war has caused thousands of casualties, leading to criticism of Prime Minister Benjamin Netanyahu's handling of the situation. |
 
