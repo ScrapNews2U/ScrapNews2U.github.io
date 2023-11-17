@@ -25,7 +25,8 @@
   </ul>
 </nav> -->
 
-{% assign navigation = site.data.navigation[include.nav] %}
+<!-- {% assign navigation = site.data.navigation[include.nav] %} -->
+{% assign sorted-cats = site.categories | sort %}
 
 {% assign categories_max = 0 %}
 {% for category in site.categories %}
