@@ -41,7 +41,7 @@
   {% endif %}
 {% endfor %}
 
-<nav class="nav__list">
+<!-- <nav class="nav__list">
   {% if navigation[0].use %}
   <input id="ac-toc" name="accordion-toc" type="checkbox" />
   <label for="ac-toc">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle Menu" }}</label>
@@ -61,7 +61,7 @@
       {% endfor %}
     </li>
   </ul>
-  {% endif %}
+  {% endif %} -->
 
   {% if navigation[1].use %}
   <input id="ac-toc" name="accordion-toc" type="checkbox" />
