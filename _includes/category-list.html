@@ -4,11 +4,9 @@
   {% when "jekyll-archives" %}
     {% assign path_type = nil %}
 {% endcase %}
-<!-- 
-{% assign categories_sorted = page.categories | sort_natural %} -->
 
 {% if site.category_archive.path %}
-  {% assign categories_sorted = page.categories %}
+  {% assign categories_sorted = page.categories | sort_natural %}
 
   <p class="page__taxonomy">
     <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].categories_label | default: "Categories:" }} </strong>
