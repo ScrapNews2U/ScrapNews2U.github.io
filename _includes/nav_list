@@ -25,7 +25,7 @@
   </ul>
 </nav> -->
 
-<!-- {% assign navigation = site.data.navigation[include.nav] %}
+{% assign navigation = site.data.navigation[include.nav] %}
 
 {% assign categories_max = 0 %}
 {% for category in site.categories %}
@@ -39,7 +39,7 @@
   {% if tag[1].size > tags_max %}
     {% assign tags_max = tag[1].size %}
   {% endif %}
-{% endfor %} -->
+{% endfor %}
 
 <nav class="nav__list">
   {% if navigation[0].use %}
