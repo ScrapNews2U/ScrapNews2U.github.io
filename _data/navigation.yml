@@ -11,6 +11,8 @@ main:
 
 counts:
   - title: "Category"
+    children:
+      -url: "/india_news_headline"
     use: true
   - title: "Tags"
     use: false
