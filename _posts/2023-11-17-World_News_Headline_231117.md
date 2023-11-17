@@ -46,7 +46,7 @@ Ukrainian President Volodymyr Zelensky has stated that deliveries of artillery s
 Summary | 
 :---:|
 ![](/assets/images/2023-11-17-World_News_Headline_231117-4.webp) |
-Israeli soldiers have discovered the body of a hostage, Yehudit Weiss, who was seized by Hamas militants during the attacks on southern Israel in October. The Israeli army claims that Hamas operates a base underneath the Al-Shifa hospital, while Hamas denies the charge. Israeli officials state that around 240 people were taken hostage during the Hamas attacks, resulting in the deaths of 1,200 people, mostly civilians. The raid on Al-Shifa hospital by Israeli special forces has damaged the facility, with military equipment and footage relating to hostages allegedly found on computers. Three tags: Hostage, Gaza Strip, Israeli Army. |
+Israeli soldiers have discovered the body of a hostage, Yehudit Weiss, who was seized by Hamas militants during the attacks on southern Israel in October. The Israeli army claims that Hamas operates a base underneath the Al-Shifa hospital, while Hamas denies the charge. Israeli officials state that around 240 people were taken hostage during the Hamas attacks, resulting in the deaths of 1,200 people, mostly civilians. The raid on Al-Shifa hospital by Israeli special forces has damaged the facility, with military equipment and footage relating to hostages allegedly found on computers. |
 
 ## Internet and Phone Networks Collapse in Gaza Due to Fuel Shortage
 
