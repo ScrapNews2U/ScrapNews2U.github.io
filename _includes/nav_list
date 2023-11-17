@@ -76,6 +76,19 @@
     </li>
   </ul>
 
+  <input id="ac-toc" name="accordion-toc" type="checkbox" />
+  <label for="ac-toc">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle Menu" }}</label>
+  <ul class="nav__items">
+    <span class="nav__sub-title">{{ navigation[2].title }}</span>
+    <li>
+            <ul style="padding-top: 0px; padding-bottom: 0px;">
+              <a href="/categories/#{{ category[1] | slugify }}">
+                <strong style="font-size: 18px;">{{ category[2] }}</strong> <span class="taxonomy__count" style="font-size: 16px; color: red;">{{ i }}</span>
+              </a>
+            </ul>
+    </li>
+  </ul>
+
 
 
 
