@@ -11,7 +11,6 @@ layout: archive
   {% endif %}
 {% endfor %}
 
-<!-- # 게시물 수기준으로 정렬
 <ul class="taxonomy__index">
   {% for i in (1..categories_max) reversed %}
     {% for category in site.categories %}
@@ -24,22 +23,7 @@ layout: archive
       {% endif %}
     {% endfor %}
   {% endfor %}
-</ul> -->
-
-{% assign sorted-cats = site.categories | sort %}
-
-<ul class="taxonomy__index">
-  {% for category in sorted-cats %}
-    {% if category[0] contains 'CBL' %}   
-       <li>
-         <a href="#{{ category[0] | slugify }}">
-           <strong>{{ category[0] }}</strong> <span class="taxonomy__count">{{ category[1].size }}</span>
-         </a>
-       </li>  
-    {% endif %}  
-  {% endfor %}
 </ul>
-
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 {% for i in (1..categories_max) reversed %}
