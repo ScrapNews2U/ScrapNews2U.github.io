@@ -11,6 +11,9 @@ main:
 
 counts:
   - title: "Category"
+    children:
+      - title: "Test a"
+      utl: /categories/world_news_headline/
     use: true
   - title: "Tags"
     use: false
