@@ -89,11 +89,11 @@
   <ul class="nav__items">
     <span class="nav__sub-title">World News
     {% for category in site.categories %}
-      {% if category[0] == "world-news-entmt" %}
+      {% if category[0] == "World-news-entmt" %}
         <li>
           <ul style="padding-top: 0px; padding-bottom: 0px;">
             <a href="/categories/#{{ category[0] | slugify }}">
-              <strong style="font-size: 18px;">{{ category[0] }}</strong> <span class="taxonomy__count" style="font-size: 16px; color: red;">{{ category[1].size }}</span>
+              <strong style="font-size: 18px;">World News Entertati</strong> <span class="taxonomy__count" style="font-size: 16px; color: red;">{{ category[1].size }}</span>
             </a>
           </ul>
         </li>
