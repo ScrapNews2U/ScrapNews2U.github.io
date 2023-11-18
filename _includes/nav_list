@@ -90,6 +90,7 @@
     <span class="nav__sub-title">World News</span>
     {% for category in site.categories %}
       {{ category[0] }}
+      {{ category[1].size }}
       {% if category[0] == "india-news-headline" %}
         <li>
           <ul style="padding-top: 0px; padding-bottom: 0px;">
