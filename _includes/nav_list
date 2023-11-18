@@ -96,7 +96,7 @@
               <strong style="font-size: 18px;">{{ category[1] }}</strong> <span class="taxonomy__count" style="font-size: 16px; color: red;">{{ category[1].size }}</span>
             </a>
           </ul>
-      </li>
+        </li>
       {% endif %}
     {% endfor %}
 
