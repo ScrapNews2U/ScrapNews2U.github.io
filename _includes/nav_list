@@ -41,6 +41,8 @@
   {% endif %}
 {% endfor %}
 
+{% assign sorted-cats = site.categories | sort %}
+
 <nav class="nav__list">
   {% if navigation[0].use %}
   <input id="ac-toc" name="accordion-toc" type="checkbox" />
@@ -49,7 +51,7 @@
     <span class="nav__sub-title">{{ navigation[0].title }}</span>
     <li>
       {% for i in (1..categories_max) reversed %}
-        {% for category in site.categories %}
+        {% for category in sorted-cats %}
           {% if category[1].size == i %}
             <ul style="padding-top: 0px; padding-bottom: 0px;">
               <a href="/categories/#{{ category[0] | slugify }}">
