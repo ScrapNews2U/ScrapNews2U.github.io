@@ -2,7 +2,7 @@
 layout: single
 title: "India News Top 5 [Headline] - Uttarakhand Tunnel, Lok Sabha Ethics Committee, Abdul Razzaq, Rohit Sharma"
 categories: "India_News_Headline"
-tags: [Uttarakhand Tunnel, Lok Sabha, Mahua Moitra, Myanmar, Abdul Razzaq, Priyanka Chaturvedi, Aishwarya Rai, Rohit Sharma, Cricket]
+tags: [Uttarakhand, Lok Sabha, Mahua Moitra, Myanmar, Abdul Razzaq, Priyanka Chaturvedi, Aishwarya Rai, Rohit Sharma, Cricket]
 toc: ture
 toc_sticky: true
 sidebar:

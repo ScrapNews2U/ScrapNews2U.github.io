@@ -1,8 +1,8 @@
 ---
 layout: single
-title: "India News Top 5 [Headline] - Madhya Pradesh and Chhattisgar Assembly Elections 2023, Uttarkashi Tunnel Collapse"
+title: "India News Top 5 [Headline] - OpenAI Communication Issues, ‘cracking sound’ at Uttarakhand tunnel"
 categories: "India_News_Headline"
-tags: [Madhya Pradesh, Chhattisgarh, Election, Uttarkashi Tunnel, Joe Biden, Israel, Hamas]
+tags: [OpenAI, Uttarakhand, Indian Railways, ICC World Cup, Cricket]
 toc: ture
 toc_sticky: true
 sidebar:
@@ -20,37 +20,37 @@ table td:nth-of-type(1) {
 }
 </style>
 
-## Madhya Pradesh Assembly Elections 2023
+## OpenAI Co-founders Sacked by Board over Communication Issues
 
 Summary | 
 :---:|
-![](/assets/images/2023-11-17-India_News_Headline_231117_1-1.webp) |
-The high-stakes Madhya Pradesh assembly elections have begun, with a voter turnout of 11.13% registered at 9 am. The state has been largely dominated by the BJP for the past 20 years, with the Congress hoping to wrestle power. Over 5.9 crore voters will decide the fate of 2,533 candidates. Both parties have campaigned extensively, with the BJP fielding prominent leaders like PM Modi and the Congress relying on its top leadership as well. Violence has been reported at polling booths in Morena's Dimani seat, but the situation is now under control. |
+![](/assets/images/2023-11-18-India_News_Headline_231118_1-1.webp) |
+The co-founders of OpenAI, Sam Altman and Greg Brockman, have been removed from their positions after a review found Altman was not consistently candid with the board of directors. The announcement also revealed that Brockman would step down as board chairman but remain at the company as president. Altman and Brockman claim they were shocked and saddened by the decision and were removed over Google Meet calls. The outpouring of support has been appreciated by the co-founders, who reassured their well-being. Mira Murati, OpenAI's chief technology officer, will serve as the interim CEO. |
 
-## Chhattisgarh Assembly Election 2023 Live Updates: Final phase voting on; CM Baghel, BJP’s Arun Sao in fray
-
-Summary | 
-:---:|
-![](/assets/images/2023-11-17-India_News_Headline_231117_1-2.webp) |
-The second phase of the Chhattisgarh Assembly election is taking place today for the remaining 70 seats of the 90-member assembly. Over 18,800 polling stations have been set up, with voting commencing from 8 am to 5 pm (or 7 am to 3 pm in naxal-affected areas). A total of 958 candidates are in the fray, including Chief Minister Bhupesh Baghel and BJP leaders. The election is predominantly between the Congress and the BJP, with both parties conducting high-powered campaigns. The counting of votes will take place on December 3. |
-
-## Uttarkashi Tunnel Collapse: 40 Workers Trapped for 6 Days, Rescue Work Intensified
+## Rescue operation faces snag after sudden ‘cracking sound’ at Uttarakhand tunnel site; further collapse likely
 
 Summary | 
 :---:|
-![](/assets/images/2023-11-17-India_News_Headline_231117_1-3.webp) |
-Rescue operations have been intensified to evacuate 40 construction workers trapped inside an under-construction tunnel in Uttarakhand's Uttarkashi for six days. A drilling machine has been used to bore through rubble and create an escape passage. The workers are safe and being supplied with essentials. Harbhajan Singh, a former cricketer, has urged the chief minister's intervention in the rescue efforts. Physical and mental rehabilitation will be required for the workers upon their rescue. |
+![](/assets/images/2023-11-18-India_News_Headline_231118_1-2.webp) |
+The rescue operation to save 41 trapped laborers in an under-construction tunnel in Uttarakhand has faced difficulties due to a sudden cracking sound, causing a temporary suspension of work. The drilling process has also been slower than anticipated, hampered by issues such as debris. The National Highways and Infrastructure Development Corporation (NHIDCL) warns of a strong possibility of further collapse. The Indian Air Force has been deployed to airlift critical equipment, and the temperature inside the tunnel remains higher than outside. |
 
-## Joe Biden acknowledges countries impacted most by environmental degradation: Piyush Goya
-
-Summary | 
-:---:|
-![](/assets/images/2023-11-17-India_News_Headline_231117_1-4.webp) |
-Union Minister Piyush Goyal met US President Joe Biden at the Asia-Pacific Economic Cooperation (APEC) welcome reception. Goyal revealed that Biden acknowledged that the countries least responsible for environmental degradation are the ones most impacted. Goyal sees this as a big endorsement of PM Modi's stance on climate issues and highlights the positive engagement between India and the US. Goyal also discussed a new fund with the US government to attract investment in India. Goyal further met with US Treasury Secretary Janet Yellen and Peru's Minister of Foreign Trade and Tourism to discuss the Free Trade Agreement negotiations with India.  |
-
-## Israel claims Hamas tunnel found at Gaza's Al Shifa hospital; Netanyahu says command centre uncovered
+## Indian Railways to Run Special Trains for ICC World Cup Final
 
 Summary | 
 :---:|
-![](/assets/images/2023-11-17-India_News_Headline_231117_1-5.webp) |
-Israeli soldiers have reportedly discovered a tunnel used by Hamas militants at Gaza's Al Shifa hospital, and Prime Minister Benjamin Netanyahu claims that a command center, bombs, and weapons were also uncovered. Hamas denies using the hospital for military purposes, calling the claims a "blatantly false narrative." President Joe Biden defended Israel's military operation at the hospital, stating that Hamas had headquartered their military operations underneath it. The United Nations expressed concern over the delivery of aid to Palestinians and the lack of communication and fuel supply in Gaza. Israeli officials also stated that some of the hostages taken in the October 7 attack were being held in the hospital complex. |
+![](/assets/images/2023-11-18-India_News_Headline_231118_1-3.webp) |
+The Indian Railways has announced that it will run special trains from Delhi and Mumbai to Ahmedabad for cricket fans heading to watch the ICC World Cup 2023 final. The trains will depart on Saturday evening and arrive in Ahmedabad on Sunday morning, and will depart from Ahmedabad early Monday morning. This initiative comes as a relief for fans who were dealing with high airfare prices. The tickets for the special trains are being sold at much lower prices, ranging from ₹620 to ₹3,490. Reservations for the trains can be made on the IRCTC website. The final match will feature India and Australia and will take place on Sunday at the Narendra Modi Stadium in Ahmedabad. |
+
+## 'They deserve better': Leaders in technology 'stunned' after OpenAI CEO Sam Altman's ouster
+
+Summary | 
+:---:|
+![](/assets/images/2023-11-18-India_News_Headline_231118_1-4.webp) |
+Tech and business leaders express shock and support for Sam Altman and Greg Brockman following their dismissal from OpenAI. Brian Chesky, CEO of Airbnb, expressed sadness and said that Altman and the OpenAI team deserve better. Chris Anderson, Chief of TED, drew parallels between this exit and Apple firing Steve Jobs and called for more information on the situation. Aaron Levie, CEO of Box, commented that the departure of Altman and Brockman will significantly impact the industry. Former Google CEO Eric Schmidt praised Altman's achievements and expressed excitement for his future work. Other leaders also commended Altman and Brockman for their contributions to artificial intelligence. |
+
+## Drop Your Best Wishes for Team India ahead of the Cricket World Cup 2023 Final
+
+Summary | 
+:---:|
+![](/assets/images/2023-11-18-India_News_Headline_231118_1-5.webp) |
+The Indian cricket team, led by captain Rohit Sharma, has reached the final of the 2023 World Cup after a tough journey. They are now one win away from the trophy. However, they face a tough challenge in the form of Australia, the five-time champions. Fans are encouraged to show their support and send their wishes to the team as they aim to win their third World Cup title. |
