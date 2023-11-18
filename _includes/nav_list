@@ -87,7 +87,7 @@
   <input id="ac-toc" name="accordion-toc" type="checkbox" />
   <label for="ac-toc">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle Menu" }}</label>
   <ul class="nav__items">
-    <span class="nav__sub-title">World News
+    <span class="nav__sub-title">World News</span>
     {% for category in site.categories %}
         <li>
             <ul style="padding-top: 0px; padding-bottom: 0px;">
@@ -97,8 +97,6 @@
             </ul>
           </li>
     {% endfor %}
-  </span>
-
   </ul>
 
 </nav>
