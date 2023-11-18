@@ -93,7 +93,7 @@
         <li>
           <ul style="padding-top: 0px; padding-bottom: 0px;">
             <a href="/categories/#{{ category[0] | slugify }}">
-              <span class="sub-category" style="font-size: 19px;"> Headline </span> <span class="taxonomy__count" style="font-size: 17px; color: red;">{{ category[1].size }}</span>
+              <span class="sub-category" style="font-size: 19px;"> - Headline </span> <span class="taxonomy__count" style="font-size: 17px; color: red;">{{ category[1].size }}</span>
             </a>
           </ul>
         </li>
@@ -104,7 +104,7 @@
         <li>
           <ul style="padding-top: 0px; padding-bottom: 0px;">
             <a href="/categories/#{{ category[0] | slugify }}">
-              <span class="sub-category" style="font-size: 19px;"> Entertainment </span> <span class="taxonomy__count" style="font-size: 17px; color: red;">{{ category[1].size }}</span>
+              <span class="sub-category" style="font-size: 19px;"> - Entertainment </span> <span class="taxonomy__count" style="font-size: 17px; color: red;">{{ category[1].size }}</span>
             </a>
           </ul>
         </li>
@@ -117,7 +117,7 @@
         <li>
           <ul style="padding-top: 0px; padding-bottom: 0px;">
             <a href="/categories/#{{ category[0] | slugify }}">
-              <span class="sub-category" style="font-size: 19px;"> Headline </span> <span class="taxonomy__count" style="font-size: 17px; color: red;">{{ category[1].size }}</span>
+              <span class="sub-category" style="font-size: 19px;"> - Headline </span> <span class="taxonomy__count" style="font-size: 17px; color: red;">{{ category[1].size }}</span>
             </a>
           </ul>
         </li>
@@ -130,7 +130,7 @@
         <li>
           <ul style="padding-top: 0px; padding-bottom: 0px;">
             <a href="/categories/#{{ category[0] | slugify }}">
-              <span class="sub-category" style="font-size: 19px;"> Headline </span> <span class="taxonomy__count" style="font-size: 17px; color: red;">{{ category[1].size }}</span>
+              <span class="sub-category" style="font-size: 19px;"> - Headline </span> <span class="taxonomy__count" style="font-size: 17px; color: red;">{{ category[1].size }}</span>
             </a>
           </ul>
         </li>
@@ -141,7 +141,7 @@
         <li>
           <ul style="padding-top: 0px; padding-bottom: 0px;">
             <a href="/categories/#{{ category[0] | slugify }}">
-              <span class="sub-category" style="font-size: 19px;"> Money </span> <span class="taxonomy__count" style="font-size: 17px; color: red;">{{ category[1].size }}</span>
+              <span class="sub-category" style="font-size: 19px;"> - Money </span> <span class="taxonomy__count" style="font-size: 17px; color: red;">{{ category[1].size }}</span>
             </a>
           </ul>
         </li>
