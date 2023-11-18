@@ -83,5 +83,21 @@
     </li>
   </ul>
   {% endif %}
-  
+
+  <input id="ac-toc" name="accordion-toc" type="checkbox" />
+  <label for="ac-toc">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle Menu" }}</label>
+  <ul class="nav__items">
+    <span class="nav__sub-title">{{ navigation[0].title }}</span>
+    <li>
+        <ul style="padding-top: 0px; padding-bottom: 0px;">
+          <a href="/categories/#{{ world-news-entmt | slugify }}">
+            <strong style="font-size: 18px;">World News Entmt</strong> <span class="taxonomy__count" style="font-size: 16px; color: red;">{{ category[1].size }}</span>
+          </a>
+        </ul>
+    </li>
+  </ul>
+
+
+
+
 </nav>
