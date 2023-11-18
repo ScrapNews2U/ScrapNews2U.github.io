@@ -87,7 +87,7 @@
   <input id="ac-toc" name="accordion-toc" type="checkbox" />
   <label for="ac-toc">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle Menu" }}</label>
   <ul class="nav__items">
-    <span class="nav__sub-title">World News</span>
+    <span class="nav__sub-title"> World News </span>
     {% for category in site.categories %}
       {% if category[0] == "World_News_Headline" %}
         <li>
@@ -111,7 +111,20 @@
       {% endif %}
     {% endfor %}
 
-    <span class="nav__sub-title">India News</span>
+    <span class="nav__sub-title"> US News </span>
+    {% for category in site.categories %}
+      {% if category[0] == "US_News_Headline" %}
+        <li>
+          <ul style="padding-top: 0px; padding-bottom: 0px;">
+            <a href="/categories/#{{ category[0] | slugify }}">
+              <span class="sub-category" style="font-size: 19px;"> Headline </span> <span class="taxonomy__count" style="font-size: 17px; color: red;">{{ category[1].size }}</span>
+            </a>
+          </ul>
+        </li>
+      {% endif %}
+    {% endfor %}
+
+    <span class="nav__sub-title"> India News </span>
     {% for category in site.categories %}
       {% if category[0] == "India_News_Headline" %}
         <li>
