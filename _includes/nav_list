@@ -124,17 +124,6 @@
       {% endif %}
     {% endfor %}
     {% for category in site.categories %}
-      {% if category[0] == "India_News_Entmt" %}
-        <li>
-          <ul style="padding-top: 0px; padding-bottom: 0px;">
-            <a href="/categories/#{{ category[0] | slugify }}">
-              <span class="sub-category" style="font-size: 19px;"> Entertainment </span> <span class="taxonomy__count" style="font-size: 17px; color: red;">{{ category[1].size }}</span>
-            </a>
-          </ul>
-        </li>
-      {% endif %}
-    {% endfor %}
-    {% for category in site.categories %}
       {% if category[0] == "India_News_Money" %}
         <li>
           <ul style="padding-top: 0px; padding-bottom: 0px;">
