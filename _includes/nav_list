@@ -89,7 +89,7 @@
   <ul class="nav__items">
     <span class="nav__sub-title" style="font-size: 18px;">World News</span>
     {% for category in site.categories %}
-      {% if category[0] == "world-news-entmt" %}
+      {% if category[1] == "world-news-entmt" %}
         <li>
           <ul style="padding-top: 0px; padding-bottom: 0px;">
             <a href="/categories/#{{ category[0] | slugify }}">
