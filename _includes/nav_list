@@ -88,20 +88,14 @@
   <label for="ac-toc">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle Menu" }}</label>
   <ul class="nav__items">
     <span class="nav__sub-title">World News
-    {% for i in (1..categories_max) reversed %}
-      {% for category in site.categories %}
-        {% if category[1].size == i %}
-          {% if category[0] == "world-news-entmt" %}
-            <li>
-              <ul style="padding-top: 0px; padding-bottom: 0px;">
-                <a href="/categories/#{{ category[0] | slugify }}">
-                  <strong style="font-size: 18px;">Entertainment</strong> <span class="taxonomy__count" style="font-size: 16px; color: red;">{{ i }}</span>
-                </a>
-              </ul>
-            </li>
-          {% endif %}
-        {% endif %}  
-      {% endfor %}
+    {% for category in site.categories %}
+        <li>
+            <ul style="padding-top: 0px; padding-bottom: 0px;">
+              <a href="/categories/#{{ category[0] | slugify }}">
+                <strong style="font-size: 18px;">Entertainment</strong> <span class="taxonomy__count" style="font-size: 16px; color: red;">{{ i }}</span>
+              </a>
+            </ul>
+          </li>
     {% endfor %}
   </span>
 
