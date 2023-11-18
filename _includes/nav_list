@@ -88,6 +88,7 @@
   <label for="ac-toc">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle Menu" }}</label>
   <ul class="nav__items">
     <span class="nav__sub-title">World News</span>
+    {% assign categories[1] = world-news-entmt%}
     <li>
         <ul style="padding-top: 0px; padding-bottom: 0px;">
           <a href="/categories/#world-news-entmt">
@@ -96,8 +97,5 @@
         </ul>
     </li>
   </ul>
-
-
-
 
 </nav>

@@ -11,7 +11,7 @@ main:
 
 counts:
   - title: "Category"
-    use: true
+    use: false
   - title: "Tags"
     use: false
 
