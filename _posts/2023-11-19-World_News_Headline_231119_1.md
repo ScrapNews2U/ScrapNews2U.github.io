@@ -2,7 +2,7 @@
 layout: single
 title: "World News Top 5 [Headline] - Gaza's Al-Shifa Hospital Declared 'Death Zone', Thanks Joe Biden for Support"
 categories: "World_News_Headline"
-tags: [WHO, Gaza, Hostage, Israel, Hamas, Taiwan, China, Benjamin Netanyahu, ]
+tags: [WHO, Gaza, Hostage, Israel, Hamas, Taiwan, China, Benjamin Netanyahu]
 toc: ture
 toc_sticky: true
 sidebar:
