@@ -2,7 +2,7 @@
 layout: single
 title: "World News Top 5 [Headline] - Javier Milei elected as Argentina's new President, Elon Musk Blasts Media Reports Calling Him 'Anti-Semitic'"
 categories: "World_News_Headline"
-tags: [Javier Milei, Argentina, President, Elon Musk, Anti-Semitis, Ross McDonnell, Israel, Hamas, War, Joe Biden, Friendsgiving]
+tags: [Javier Milei, Argentina, President, Elon Musk, Anti-Semitis, Ross McDonnell, Israel, Hamas, War, Joe Biden]
 toc: ture
 toc_sticky: true
 sidebar:
