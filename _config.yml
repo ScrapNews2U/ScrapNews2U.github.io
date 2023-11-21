@@ -21,7 +21,7 @@ title                    : "ScrapNews2U"
 title_separator          : "|"
 subtitle                 : "Shorts News - SAVE YOUR TIME !!" # site tagline that appears below site title in masthead
 name                     : "ScrapNews2U"
-description              : "ScrapNews2U Website - Summary of the latest News to you. - All News 2U"
+description              : "ScrapNews2U Website - Summary of the latest News to you. - Shorts News - SAVE YOUR TIME !!"
 url                      : "https://ScrapNews2U.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "ScrapNews2U"
   avatar           : "/assets/ScrapNews2U-Logo-1.webp" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "All News 2U"
+  bio              : "Shorts News <br> SAVE YOUR TIME !!"
   location         : # "Earth"
   email            :
   links:
