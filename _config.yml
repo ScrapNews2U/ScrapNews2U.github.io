@@ -19,7 +19,7 @@ locale                   : "en-US"
 published                : true
 title                    : "ScrapNews2U"
 title_separator          : "|"
-subtitle                 : "All News 2U" # site tagline that appears below site title in masthead
+subtitle                 : "Shorts News 2U - CUT TO THE CHASE!!" # site tagline that appears below site title in masthead
 name                     : "ScrapNews2U"
 description              : "ScrapNews2U Website - Summary of the latest News to you. - All News 2U"
 url                      : "https://ScrapNews2U.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
