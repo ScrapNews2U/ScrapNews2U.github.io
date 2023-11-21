@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Two Die by Suicide following India's loss, Six injured in fight over shortage of rasgullas"
+title: "India News Top 5 [Headline] - Two Die by Suicide following India's loss, Six injured in fight over shortage of rasgullas"
 categories: "India_News_Headline"
 tags: [Uttarkashi, Uttarakhand Tunnel, Cricket World Cup, Rescue, Agra, Uttar Pradesh]
 toc: ture
