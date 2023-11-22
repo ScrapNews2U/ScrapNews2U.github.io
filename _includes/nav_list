@@ -111,7 +111,7 @@
       {% endif %}
     {% endfor %}
 
-    <span class="nav__sub-title"> [ United States News ] </span>
+    <span class="nav__sub-title"> [ US News ] </span>
     {% for category in site.categories %}
       {% if category[0] == "US_News_Headline" %}
         <li>
