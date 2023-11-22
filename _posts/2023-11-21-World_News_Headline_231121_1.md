@@ -1,8 +1,8 @@
 ---
 layout: single
-title: "World News Top 5 [Headline] -  Hamas Militants Hide in Gaza Hospitals, Mugshots Released of Teens Accused of Beating Las Vegas Teen to Death"
+title: "World News Top 5 [Headline] - Hamas Militants Hide in Gaza Hospitals, Mugshots Released of Teens Accused of Beating Las Vegas Teen to Death"
 categories: "World_News_Headline"
-tags: [Israel, Hamas, War, IDF, Gaza, Joe Biden, mugshots, Chandra Arya, Pakistan, PPP, ]
+tags: [Israel, Hamas, War, IDF, Gaza, Joe Biden, mugshots, Chandra Arya, Pakistan, PPP]
 toc: ture
 toc_sticky: true
 sidebar:
