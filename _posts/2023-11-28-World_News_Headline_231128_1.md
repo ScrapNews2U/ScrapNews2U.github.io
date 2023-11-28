@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "World News Top 5 [Headline] - Three Palestinian College Students Shot in Vermont,  Malaysia to Allow Visa-Free Entry to Indian, Chinese"
+title: "World News Top 5 [Headline] - Earthquakes Strike Pakistan, Magnitude 6.5 earthquake strikes north of Papua New Guinea"
 categories: "World_News_Headline"
 tags: [Pakistan, Earthquake, New York, Rishi Sunak, Greek, Tsunami, Brazil, G20]
 toc: ture
