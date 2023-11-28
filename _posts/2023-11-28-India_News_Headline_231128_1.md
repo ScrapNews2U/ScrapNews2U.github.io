@@ -1,8 +1,8 @@
 ---
 layout: single
-title: "India News Top 5 [Headline] - Rajasthan’s labour market very different, CM Sarma on Akbaruddin Owaisi threatening cop, Uttarakhand Rescue Operation Enters Final Stage"
+title: "India News Top 5 [Headline] - Assembly Elections 2023, Uttarkashi Tunnel Rescue: Manual drilling initiated by rat-hole mining experts"
 categories: "India_News_Headline"
-tags: [Cochin, Terror, Mumbai, Narendra Modi, Mumbai, Mann Ki Baat, Maharashtra, Israeli]
+tags: [Telangana, Election, Uttarkashi, ]
 toc: ture
 toc_sticky: true
 sidebar:
@@ -20,37 +20,37 @@ table td:nth-of-type(1) {
 }
 </style>
 
-## Expert panel to probe stampede incident at Cochin University, 4 students dead
+## Telangana's Finances Make it the Perfect State for a Populist Government
 
 Summary | 
 :---:|
-![](/assets/images/2023-11-26-India_News_Headline_231126_1-1.webp) |
-The Kerala government will form an expert committee to investigate the stampede at Cochin University that resulted in the death of four students. The committee will analyze the incident, identify any lapses in the organization of the event, and create guidelines to prevent similar incidents in the future. The higher education minister has also requested reports from the university officials regarding the tragedy. A case has been registered and an investigation has been initiated. Singer Nikita Gandhi, who was scheduled to perform at the event, expressed her sorrow over the incident. Chief Minister Pinarayi Vijayan canceled all cultural and art events in the wake of the tragedy. |
+![](/assets/images/2023-11-28-India_News_Headline_231128_1-1.webp) |
+An analysis of Telangana's finances reveals that it is an ideal state for a populist government. The Bharat Rashtra Samiti (BRS) is seeking re-election on a welfare plank, with the Congress trying to outdo them in this area. Telangana's decoupling from Andhra Pradesh and the revenues from Hyderabad have created the conditions for a populist government. The results of the election will be known on December 3. |
 
-## Five heroes who saved hundreds in 2008 Mumbai terror attacks
-
-Summary | 
-:---:|
-![](/assets/images/2023-11-26-India_News_Headline_231126_1-2.webp) |
-It has been 15 years since the 26/11 terror attacks in Mumbai, where 166 people lost their lives and over 300 were injured. On this anniversary, let's remember the heroes who saved hundreds during the attack. Tukaram Omble, an assistant sub inspector in the Mumbai Police, bravely nabbed terrorist Ajmal Kasab despite being shot over 40 times. Indian Army major Sandeep Unnikrishnan sacrificed his life while saving dozens of lives at the Taj Palace Hotel. Mallika Jagad, the banquet manager, led 50 guests to safety with no casualties. Karambir Singh Kang, the general manager of Taj Mumbai, guided hundreds to safety but was tragically killed along with his wife and son. Thomas Varghese, a senior waiter, guided the evacuation of guests at Taj's Japanese restaurant but was also gunned down by terrorists. These individuals demonstrated immense bravery in the face of terror. |
-
-## Prime Minister Narendra Modi Pays Tribute to 26/11 Mumbai Attack Victims on Mann ki Baat Radio Show
+## Assembly Elections 2023: Telangana to Vote on November 30
 
 Summary | 
 :---:|
-![](/assets/images/2023-11-26-India_News_Headline_231126_1-3.webp) |
-Indian Prime Minister Narendra Modi commemorated the 15th anniversary of the 26/11 Mumbai terror attacks during his monthly Mann ki Baat radio show. He stated that India can never forget the heinous terrorist attack and highlighted the country's capability to recover and fight terrorism with courage. The attacks occurred on November 26, 2008, when 10 Pakistani terrorists arrived by sea and carried out indiscriminate firing, killing 166 people. The prime minister also mentioned that November 26 is significant as it marks the adoption of the Constitution of India in 1949. Modi urged citizens to prioritize their duties to contribute to the country's development. He also emphasized the importance of buying made-in-India products and promoting domestic celebrations instead of organizing weddings abroad. |
+![](/assets/images/2023-11-28-India_News_Headline_231128_1-2.webp) |
+The assembly elections in five states, including Telangana, will be declared on December 3. The ruling Bharat Rashtra Samiti (BRS) is facing tough competition from the Congress and Bharatiya Janata Party (BJP) in Telangana. Currently, BRS holds 98 out of the 119 seats. Prime Minister Narendra Modi expressed confidence in the BJP's victory during his roadshow in Hyderabad. The election results will have implications for the 2024 Lok Sabha elections. Vote counting for Telangana and the other four states will take place on December 3. |
 
-## Maharashtra Ministers Pay Tribute to Martyrs in 26/11 Terror Attacks
-
-Summary | 
-:---:|
-![](/assets/images/2023-11-26-India_News_Headline_231126_1-4.webp) |
-Maharashtra Chief Minister Eknath Shinde and Deputy Chief Minister Devendra Fadnavis paid floral tributes to the bravehearts at the Martyrs' Memorial in Mumbai on the 15th anniversary of the 26/11 Mumbai terror attack. The 2008 attacks, carried out by ten terrorists from Pakistan, resulted in the deaths of 166 people and left over 300 wounded. Various government officials and ministers also participated in the commemoration event. The nation remembers the sacrifice of the security personnel and vows to fight against terrorism. |
-
-## Israeli envoy compares Mumbai attacks to Hamas assault on Israel
+## Uttarkashi Tunnel Rescue: Manual drilling initiated by rat-hole mining experts to rescue trapped workers
 
 Summary | 
 :---:|
-![](/assets/images/2023-11-26-India_News_Headline_231126_1-5.webp) |
-Israeli ambassador to India, Naor Gilon, described the 26/11 Mumbai terror attacks as "horrendous" and compared them to the surprise assault by Hamas militants in Israel. Gilon affirmed that Israel stands with India in the fight against terrorism and emphasized the need to join hands globally to eliminate terrorism. He also expressed solidarity with India on the 15th anniversary of the attacks and highlighted the strong bond between India and Israel in their actions against terrorism. The article mentions the designation of Lashkar-e-Taiba (LeT) as a terror organization by Israel and includes the views of Moshe Holtzberg, the uncle of Baby Moshe, who was held hostage during the Mumbai attacks. The article provides a brief background on the 2008 Mumbai attacks and the targeting of specific locations in the city. |
+![](/assets/images/2023-11-28-India_News_Headline_231128_1-3.webp) |
+At least 12 rat-hole mining specialists have begun manual drilling to rescue 41 workers who are trapped in the collapsed Silkyara tunnel in Uttarakhand's Uttarkashi. The drilling approach was adopted after a large auger machine became stuck. Vertical drilling has reached a depth of 36 meters out of the required 86 meters. The rescuers aim to extract the workers by Thursday through a one-meter-wide shaft. A secondary probe has also indicated no significant geological obstacles. Prime Minister Narendra Modi has urged people to pray for the safe release of the trapped individuals. |
+
+## Uttarkashi tunnel collapse: Six-member rat-hole mining team deployed for rescue ops
+
+Summary | 
+:---:|
+![](/assets/images/2023-11-28-India_News_Headline_231128_1-4.webp) |
+A six-member rat-hole mining team has been deployed to rescue 41 workers who have been trapped inside the Silkyara tunnel in Uttarkashi for 16 days. The rescue operation involves manual drilling and excavation using the rat-hole mining method. Parts of a US-made auger machine got stuck in the rubble, prompting officials to employ alternative options such as vertical drilling and the rat-hole mining technique. The team of rat-hole miners from Madhya Pradesh will manually drill through the remaining debris and evacuate the workers. Rat-hole mining is a primitive method involving narrow, horizontal passages. The rescue process is expected to take around 24-32 hours. However, bad weather conditions may hinder the operation. |
+
+## Telangana Independent Candidate Creates Ripple in Poll Campaign
+
+Summary | 
+:---:|
+![](/assets/images/2023-11-28-India_News_Headline_231128_1-5.webp) |
+Karne Shireesha, a 26-year-old independent candidate in the Telangana assembly elections, is gaining attention with her innovative campaign and appeals to unemployed youngsters. Despite lacking political and financial backing, Shireesha has garnered support from thousands of young people who are conducting extensive campaigns on her behalf. While some are skeptical of her chances of winning against seasoned politicians, Shireesha remains confident that her fight for the cause of the unemployed youth will be acknowledged. |
