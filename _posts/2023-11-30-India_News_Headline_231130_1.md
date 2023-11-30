@@ -49,6 +49,7 @@ Summary |
 The Varanasi court has granted the Archaeological Survey of India (ASI) an additional 10 days to complete the Gyanvapi survey and submit its report. The ASI had filed a plea seeking three weeks' time for the survey. The ASI started the survey in August to determine whether the 17th-century Gyanvapi mosque was built on a pre-existing Hindu temple. The court expects the ASI to file the report within the provided time, with the next date of hearing set on December 11. The Gyanvapi committee has also moved the Supreme Court against the high court's order. |
 
 ## Telangana Exit Poll Results 2023 Live Updates: Can KCR repeat magic? Will Congress or BJP upset BRS?
+
 Summary | 
 :---:|
 ![](/assets/images/2023-11-30-India_News_Headline_231130_1-5.webp) |
