@@ -45,7 +45,7 @@ The results of the assembly elections in Madhya Pradesh, Rajasthan, Chhattisgarh
 
 Summary | 
 :---:|
-![](/assets/images/2023-12-02-India_News_Headline_231130_1-4.webp) |
+![](/assets/images/2023-12-02-India_News_Headline_231202_1-4.webp) |
 The India Meteorological Department (IMD) has issued a warning about Cyclonic Storm 'Michaung' expected to intensify by December 3 and make landfall on December 5. Tamil Nadu's Chief Minister has conducted a review meeting and issued guidelines for precautionary measures. The National Crisis Management Committee has reviewed preparedness. An all-party meeting will be convened to strategize the legislative agenda for the upcoming Winter Session in the Lok Sabha and Rajya Sabha, with several pending bills to be considered. The session will last until December 22. |
 
 ## Tamil Nadu Police searches Madurai office
