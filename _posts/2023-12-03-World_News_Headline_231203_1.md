@@ -32,8 +32,7 @@ An explosion occurred in a university gymnasium in Marawi, Philippines during a 
 Summary | 
 :---:|
 ![](/assets/images/2023-12-03-World_News_Headline_231203_1-2.webp) |
-Former President Donald Trump accuses President Joe Biden of being a threat to American democracy, echoing Biden's own allegations against Trump. Trump argues that Biden is misusing the federal justice system and weaponizing the government against political opponents. He also criticizes lawsuits filed by liberal organizations seeking to rule him ineligible for office. Trump defends his relationships with authoritarian leaders and repeats his claims of election fraud, despite no evidence supporting these allegations. Trump's supporters attacked the U.S. Capitol on January 6, 2021, and he refers to them as "political prisoners."  
-Tags: Donald Trump, Joe Biden, American democracy |
+Former President Donald Trump accuses President Joe Biden of being a threat to American democracy, echoing Biden's own allegations against Trump. Trump argues that Biden is misusing the federal justice system and weaponizing the government against political opponents. He also criticizes lawsuits filed by liberal organizations seeking to rule him ineligible for office. Trump defends his relationships with authoritarian leaders and repeats his claims of election fraud, despite no evidence supporting these allegations. Trump's supporters attacked the U.S. Capitol on January 6, 2021, and he refers to them as "political prisoners." |
 
 ## 1 Killed, 2 Injured in Attack Near Eiffel Tower in Paris
 
